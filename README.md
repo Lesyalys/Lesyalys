@@ -3,5 +3,6 @@
 <!--
 **Lesyalys/Lesyalys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-![ds](https://github.com/user-attachments/assets/16b4bc3d-e555-4c14-beae-24e8150477f5)
+![cat](https://github.com/user-attachments/assets/81fccccb-b58f-40a3-8316-dee9b03fe5eb)
+
 

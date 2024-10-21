@@ -8,6 +8,7 @@
 <h3>A little about me:</h3>
 ✨ Junior | Python, C++ |<br>
 ✨ Hobby 3D/2D design | <a href="https://boosty.to/lesinka">Boosty</a> | | <a href ="https://www.artstation.com/lesssya4">Artstation</a> |
+✨ My educational projects | <a href="https://github.com/Lesyalys/NVGU-LOGO">NVGU-LOGO</a> |
 
 
 

@@ -7,7 +7,7 @@
 
 <h3>A little about me:</h3>
 Junior | Python, C++ |<br>
-Hobby 3D/2D design | https://boosty.to/lesinka |
+Hobby 3D/2D design | https://boosty.to/lesinka | | https://www.artstation.com/lesssya4 |
 
 
 

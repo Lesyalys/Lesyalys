@@ -5,7 +5,7 @@
 
 ![9e25a15f2aae61fb18f7782b65b6baf7](https://github.com/user-attachments/assets/ae012678-354e-4495-9af8-859b19e757bd)
 
-<h2>A little about me:</h2>
+<h3>A little about me:</h3>
 <h3>Junior</h3>
 <h3>Hobby 3D/2D design | https://boosty.to/lesinka | </h3>
 

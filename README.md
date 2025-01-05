@@ -10,8 +10,13 @@
   <div align="center"><img src = "https://github.com/user-attachments/assets/ae012678-354e-4495-9af8-859b19e757bd"></div>
   
   <div>
-    <h1 align ="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9370DB&center=true&vCenter=true&repeat=false&width=600&lines=A+little+about+me" alt="A little about me" /></a></h1>
-    <p><img height="30px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/cloud-telegram.gif" alt="☁️"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=9370DB&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Junior;frontend+(HTML+%7C+CSS+%7C+JS+%7C+FLUTTER);backend+(NodeJs+%7C+MySQL)" alt="Junior | frontend (HTML | CSS | JS | FLUTTER) && backend (NodeJs | MySQL)" /></a></p>
+    <h1 align ="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9370DB&center=true&vCenter=true&repeat=false&width=600&lines=A+little+about+me" alt="A little about me" /></a>
+    </h1>
+    <p>
+      <img height="30px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/cloud-telegram.gif" alt="☁️">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=9370DB&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Junior;frontend+(HTML+%7C+CSS+%7C+JS+%7C+FLUTTER);backend+(NodeJs+%7C+MySQL)" alt="Junior | frontend (HTML | CSS | JS | FLUTTER) && backend (NodeJs | MySQL)" />
+      </a>
+    </p>
     <p><img height="30px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/cloud-telegram.gif" alt="☁️"> Hobby | 3D/2D design | <a href="https://boosty.to/lesinka">Boosty</a> | | <a href ="https://www.artstation.com/lesssya4">Artstation</a> |</p>
     <p><img height="30px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/cloud-telegram.gif" alt="☁️"> My educational projects | <a href="https://github.com/Lesyalys/NVGU-LOGO">NVGU-LOGO</a> |</p>
     

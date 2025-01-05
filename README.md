@@ -1,3 +1,4 @@
+<html lang="en">
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=50&pause=1000&color=ffffff&width=470&height=80&lines=Hello%2C+world!+%5E-%5E" alt="Typing SVG" /></a></h1>
 
 <!--A little about me
@@ -15,3 +16,4 @@
 <img src = "https://github.com/user-attachments/assets/bd7b0e82-198c-4ab6-b7ca-800fd7169fb9">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lesyalys&theme=tokyonight">
+</html>

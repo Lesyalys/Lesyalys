@@ -6,8 +6,8 @@
 <div align="center"><img src = "https://github.com/user-attachments/assets/ae012678-354e-4495-9af8-859b19e757bd"></div>
 
 <div>
-  <h1 align ="center">A little about me</h1>
-  <p style="font-family: Fira Code">✨ Junior | frontend | backend |<br></p>
+  <h1 align ="center" font-family= "Fira Code">A little about me</h1>
+  <p>✨ Junior | frontend | backend |<br></p>
   <p>✨ Hobby 3D/2D design | <a href="https://boosty.to/lesinka">Boosty</a> | | <a href ="https://www.artstation.com/lesssya4">Artstation</a> |</p>
   <p>✨ My educational projects | <a href="https://github.com/Lesyalys/NVGU-LOGO">NVGU-LOGO</a> |</p>
 </div>

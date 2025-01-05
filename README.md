@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello,+world!" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EAACF7&width=435&lines=Hello%2C+world!+%5E-%5E" alt="Typing SVG" /></a></h1>
 
 <!--
 **Lesyalys/Lesyalys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->

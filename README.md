@@ -9,4 +9,4 @@
 ✨ Junior | frontend | backend |<br>
 ✨ Hobby 3D/2D design | <a href="https://boosty.to/lesinka">Boosty</a> | | <a href ="https://www.artstation.com/lesssya4">Artstation</a> |<br>
 ✨ My educational projects | <a href="https://github.com/Lesyalys/NVGU-LOGO">NVGU-LOGO</a> |<br>
-<img src="https://platane.me/snk/about:blank">
+<img src="https://raw.githubusercontent.com/Lesyalys/Lesyalys/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">

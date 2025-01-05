@@ -16,7 +16,7 @@
     </h1>
     <div align="left">
       <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/cloud-telegram.gif" alt="☁️">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=9370DB&vCenter=true&multiline=true&repeat=false&width=600&height=20&lines=Junior" alt="Junior" />
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=9370DB&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=Junior" alt="Junior" />
         </a>
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=75DB73&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=frontend+(HTML+%7C+CSS+%7C+JS+%7C+FLUTTER);backend+(NodeJs+%7C+MySQL)" alt="frontend (HTML | CSS | JS | FLUTTER) backend (NodeJs | MySQL)" />
         </a>

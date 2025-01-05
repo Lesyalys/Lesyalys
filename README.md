@@ -14,4 +14,4 @@
 
 <img src = "https://github.com/user-attachments/assets/bd7b0e82-198c-4ab6-b7ca-800fd7169fb9">
 
-<a href ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Lesyalys}&theme={tokyonight}"></a>
+<a href ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Lesyalys}&theme={tokyonight}"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lesyalys&theme=tokyonight"></a>

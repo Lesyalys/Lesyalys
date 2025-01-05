@@ -14,16 +14,17 @@
     <p><img height="30px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/cloud-telegram.gif" alt="☁️"> Junior | frontend (HTML/CSS/JS/Flutter) && backend (NodeJs/MySQL) |<br></p>
     <p><img height="30px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/cloud-telegram.gif" alt="☁️"> Hobby | 3D/2D design | <a href="https://boosty.to/lesinka">Boosty</a> | | <a href ="https://www.artstation.com/lesssya4">Artstation</a> |</p>
     <p><img height="30px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/cloud-telegram.gif" alt="☁️"> My educational projects | <a href="https://github.com/Lesyalys/NVGU-LOGO">NVGU-LOGO</a> |</p>
+    
   </div>
   
-  <img src = "https://github.com/user-attachments/assets/bd7b0e82-198c-4ab6-b7ca-800fd7169fb9">
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lesyalys&theme=tokyonight">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lesyalys&theme=tokyonight">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lesyalys&theme=tokyonight">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lesyalys&theme=tokyonight">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lesyalys&theme=tokyonight&utcOffset=8">
-</div>
+  <div align="center">
+    <img src = "https://github.com/user-attachments/assets/bd7b0e82-198c-4ab6-b7ca-800fd7169fb9">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lesyalys&theme=tokyonight">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lesyalys&theme=tokyonight">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lesyalys&theme=tokyonight">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lesyalys&theme=tokyonight">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lesyalys&theme=tokyonight&utcOffset=8">
+  </div>
 </body>
 
 </html>

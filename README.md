@@ -7,7 +7,7 @@
 
 <div>
   <h1 align ="center" style="font: Fira Code">A little about me</h1>
-  <p><img height="72px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/strawberry-telegram.gif"> Junior | frontend | backend |<br></p>
+  <p><img height="30px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/strawberry-telegram.gif"> Junior | frontend | backend |<br></p>
   <p>✨ Hobby 3D/2D design | <a href="https://boosty.to/lesinka">Boosty</a> | | <a href ="https://www.artstation.com/lesssya4">Artstation</a> |</p>
   <p>✨ My educational projects | <a href="https://github.com/Lesyalys/NVGU-LOGO">NVGU-LOGO</a> |</p>
 </div>

@@ -23,7 +23,7 @@
     </div>
     <div align="left">
       <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/cloud-telegram.gif" alt="☁️"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&color=9370DB&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=HOBBY" alt="HOBBY"/></a>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&color=75DB73&vCenter=true&multiline=true&repeat=false&width=180&height=30&lines=3D%2F2D+design" alt="3D/2D design" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&color=75DB73&vCenter=true&multiline=true&repeat=false&width=140&height=30&lines=3D%2F2D+design" alt="3D/2D design"/></a>
       <a href="https://boosty.to/lesinka"> Boosty </a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&color=75DB73&vCenter=true&multiline=true&repeat=false&width=52&height=30&lines=and" alt="and"/></a><a href ="https://www.artstation.com/lesssya4"> Artstation </a>
     </div>
     <div align="left">

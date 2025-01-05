@@ -31,7 +31,7 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=9370DB&size=30&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=STUDY" alt="STUDY" />
         </a>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=75DB73&vCenter=true&repeat=false&width=275&height=20&lines=My+educational+projects" alt=" My educational projects " /></a>
-      <a href="https://github.com/Lesyalys/NVGU-LOGO">NVGU-LOGO</a>
+      <a href="https://github.com/Lesyalys/NVGU-LOGO"> NVGU-LOGO</a>
     </div>
     
   </div>

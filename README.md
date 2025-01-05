@@ -1,4 +1,4 @@
-<h1> Hello, world! </h1>
+<h1 align="center"> Hello, world! </h1>
 
 <!--
 **Lesyalys/Lesyalys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->

@@ -6,7 +6,7 @@
 <div align="center"><img src = "https://github.com/user-attachments/assets/ae012678-354e-4495-9af8-859b19e757bd"></div>
 
 <div>
-  <h1 align ="center" style="font: Fira Code"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=50&pause=1000&color=ffffff&width=470&height=80&lines=A+little+about+me+%5E-%5E" alt="Typing SVG" /></a></h1>
+  <h1 align ="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=40&pause=1000&color=ffffff&width=470&height=80&lines=A+little+about+me+%5E-%5E" alt="Typing SVG" /></a></h1>
   <p><img height="30px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/cloud-telegram.gif" alt="☁️"> Junior | frontend (HTML/CSS/JS/Flutter) && backend (NodeJs/MySQL) |<br></p>
   <p><img height="30px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/cloud-telegram.gif" alt="☁️"> Hobby | 3D/2D design | <a href="https://boosty.to/lesinka">Boosty</a> | | <a href ="https://www.artstation.com/lesssya4">Artstation</a> |</p>
   <p><img height="30px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/cloud-telegram.gif" alt="☁️"> My educational projects | <a href="https://github.com/Lesyalys/NVGU-LOGO">NVGU-LOGO</a> |</p>

@@ -5,7 +5,7 @@
 
 <div align="center"><img src = "https://github.com/user-attachments/assets/ae012678-354e-4495-9af8-859b19e757bd"></div>
 
-<div family-name="Fira Code">
+<div style="family-name:Fira Code">
   <h3>A little about me:</h3>
   ✨ Junior | frontend | backend |<br>
   ✨ Hobby 3D/2D design | <a href="https://boosty.to/lesinka">Boosty</a> | | <a href ="https://www.artstation.com/lesssya4">Artstation</a> |<br>

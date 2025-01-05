@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
   
-<body>
+<body style="color:#9370db">
   <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=50&pause=1000&color=9370db&width=470&height=80&lines=Hello%2C+world!+%5E-%5E" alt="Typing SVG" /></a></h1>
 
   <div align="center"><img src = "https://github.com/user-attachments/assets/ae012678-354e-4495-9af8-859b19e757bd"></div>

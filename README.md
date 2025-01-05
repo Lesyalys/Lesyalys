@@ -29,7 +29,7 @@
       <a href ="https://www.artstation.com/lesssya4"> Artstation </a>
       <br>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=75DB73&vCenter=true&repeat=false&width=150&height=20&lines=Games" alt=" Games " /></a>
-      <a href ="https://steamcommunity.com/profiles/76561198844137875/"> Steam </a>
+      <a href ="https://steamcommunity.com/profiles/76561198844137875/" target="_blank"> Steam </a>
     </div>
     <div align="left">
       <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/cloud-telegram.gif" alt="☁️"> 

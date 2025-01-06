@@ -53,8 +53,9 @@
   </div>
   <br>
   <audio controls>
-    <source src="horse.mp3" type="audio/mpeg">
-  </audio>
+  <source src="https://api.soundcloud.com/tracks/TRACK_ID/stream" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
 </body>
 
 </html>

@@ -52,9 +52,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lesyalys&theme=tokyonight&utcOffset=8">
   </div>
   <div align="center">
-    <audio controls>
-      <source src="https://zvuk.com/embed/track?id=77841392">
-    </audio>
+    <iframe frameborder="0" style="border-style: none;"
+        width="100%" height='240' src="https://zvuk.com/embed/track?id=77841392" />
   </div>
 </audio>
 </body>

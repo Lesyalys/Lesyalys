@@ -38,6 +38,7 @@
         </a>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=75DB73&vCenter=true&repeat=false&width=280&height=20&lines=My+educational+projects" alt=" My educational projects " /></a>
       <a href="https://github.com/Lesyalys/NVGU-LOGO"> NVSU-LOGO </a>
+      <a href="https://github.com/Lesyalys/NVweather_TG"> NVweather_TG </a>
     </div>
     
   </div>

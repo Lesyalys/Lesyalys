@@ -4,8 +4,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
   
-<body style="font:Fira Code">
-  <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&weight=100&size=50&pause=1000&vCenter=true&repeat=false&color=9370db&width=450&height=80&lines=Hello%2C+world!" alt="Hello,world!" /></a>
+<body>
+  <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&color=9370DB&center=true&vCenter=true&repeat=false&width=500&height=30&lines=Hello%2Cworld!" alt="Hello,world!" /></a>
   </h1>
 
   <div align="center"><img src = "https://github.com/user-attachments/assets/ae012678-354e-4495-9af8-859b19e757bd">

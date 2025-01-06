@@ -53,7 +53,7 @@
   </div>
   <br>
   <audio controls>
-    <source src="https://music.yandex.ru/album/12850585/track/73809206?utm_source=web&utm_medium=copy_link" type="audio/ogg">
+    <source src="horse.ogg" type="audio/ogg">
   </audio>
 </body>
 

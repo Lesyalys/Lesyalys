@@ -52,10 +52,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lesyalys&theme=tokyonight&utcOffset=8">
   </div>
   <br>
-  <audio controls>
-  <source src="https://api.soundcloud.com/tracks/TRACK_ID/stream" type="audio/mp3">
-  Your browser does not support the audio element.
-</audio>
 </body>
 
 </html>

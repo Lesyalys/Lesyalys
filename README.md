@@ -52,8 +52,9 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lesyalys&theme=tokyonight&utcOffset=8">
   </div>
   <div align="center">
-    <ul class="mainSongs unstyled songs" data-type="tracks" data-url="https://muzofond.fm/search/school rooftop intro slowed down version"> 
-  </ul>
+    <a href="https://muzofond.fm/search/hisohkah wmd school rooftop">
+                        <span class="track">School Rooftop (Intro) (Slowed Down Version)</span>
+                    </a>
   </div>
 </audio>
 </body>

@@ -51,7 +51,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lesyalys&theme=tokyonight">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lesyalys&theme=tokyonight&utcOffset=8">
   </div>
-  [![hisohkah - School Rooftop](https://img.youtube.com/vi/Og6Yu54arDE/0.jpg)](https://youtu.be/Og6Yu54arDE)
 </body>
 
 </html>

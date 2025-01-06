@@ -51,9 +51,11 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lesyalys&theme=tokyonight">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lesyalys&theme=tokyonight&utcOffset=8">
   </div>
-  <br>
-  <audio controls>
-  <source src="https://raw.githubusercontent.com/Lesyalys/assetsMus/main/hisohkah%20-%20School%20Rooftop%20-%20Slowed%20Down%20Version.mp3" type="audio/mpeg">
+  <div align="center">
+    <audio controls>
+      <source src="https://raw.githubusercontent.com/Lesyalys/assetsMus/main/hisohkah%20-%20School%20Rooftop%20-%20Slowed%20Down%20Version.mp3" type="audio/mpeg">
+    </audio>
+  </div>
 </audio>
 </body>
 

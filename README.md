@@ -51,7 +51,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lesyalys&theme=tokyonight">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lesyalys&theme=tokyonight&utcOffset=8">
   </div>
-    [![Listen on SoundCloud](https://img.sndcdn.com/images/logo-dark-1000x1000.jpg)](https://soundcloud.com/your_track_link)
+  [![hisohkah - School Rooftop](https://img.youtube.com/vi/Og6Yu54arDE/0.jpg)](https://youtu.be/Og6Yu54arDE)
 </audio>
 </body>
 

@@ -52,9 +52,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lesyalys&theme=tokyonight&utcOffset=8">
   </div>
   <div align="center">
-    <audio controls>
-      <source src="https://raw.githubusercontent.com/Lesyalys/assetsMus/main/hisohkah%20-%20School%20Rooftop%20-%20Slowed%20Down%20Version.mp3" type="audio/mpeg">
-    </audio>
+    <ul class="mainSongs unstyled songs" data-type="tracks" data-url="https://muzofond.fm/search/school rooftop intro slowed down version"> 
+  </ul>
   </div>
 </audio>
 </body>

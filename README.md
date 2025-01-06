@@ -52,8 +52,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lesyalys&theme=tokyonight&utcOffset=8">
   </div>
   <div align="center">
-    <audio controls>
-  <source src="/media/cc0-audio/t-rex-roar.mp3" type="audio/mpeg">
+    <audio controls src="/media/cc0-audio/t-rex-roar.mp3"></audio>
 </audio>
   </div>
 </audio>

@@ -54,7 +54,8 @@
    <div align="center">
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=9370DB&center=true&vCenter=true&repeat=false&width=600&lines=Vibe" alt="vibe" /></a><br>
     <a href="https://lesyalys.github.io/readmus.io/READ.html" target="_blank">
-    <img src="https://lesyalys.github.io/readmus.io/USgSF9odq8Q.svg" />
+    <img src="https://lesyalys.github.io/readmus.io/USgSF9odq8Q.svg" style="background: #31958C;
+border-radius:3.5px;" />
 </a>
   </div>
 </body>

@@ -52,6 +52,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lesyalys&theme=tokyonight&utcOffset=8">
   </div>
    <div align="center">
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=9370DB&center=true&vCenter=true&repeat=false&width=600&lines=Wibe" alt="Wibe" /></a>
     <a href="https://lesyalys.github.io/readmus.io/READ.html" target="_blank">
     <img src="https://lesyalys.github.io/readmus.io/play.jpg" />
 </a>

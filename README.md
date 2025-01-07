@@ -51,7 +51,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lesyalys&theme=tokyonight">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lesyalys&theme=tokyonight&utcOffset=8">
   </div>
-   <div>
+   <div align="center">
     <a href="https://lesyalys.github.io/readmus.io/READ.html" target="_blank">
     <img src="https://lesyalys.github.io/readmus.io/play.jpg" />
 </a>

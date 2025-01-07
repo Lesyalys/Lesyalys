@@ -51,11 +51,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lesyalys&theme=tokyonight">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lesyalys&theme=tokyonight&utcOffset=8">
   </div>
-  <div>
-  <a href="https://www.youtube.com/watch?v=Zvlt-OGK4Jc" target="_blank">
-    <img src="https://img.youtube.com/vi/Zvlt-OGK4Jc/0.jpg" alt="Слушать на YouTube" />
-</a>
-  </div>
 </body>
 
 </html>

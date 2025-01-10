@@ -19,7 +19,7 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=9370DB&size=30&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=JUNIOR" alt=" JUNIOR " />
           <br>
         </a>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=75DB73&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=frontend+(HTML+%7C+CSS+%7C+JS+%7C+FLUTTER);backend+(NodeJs+%7C+MySQL)" alt=" frontend (HTML | CSS | JS | FLUTTER) backend (NodeJs | MySQL) " />
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=75DB73&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=frontend+(HTML+%7C+CSS+%7C+JS+%7C+FLUTTER);backend+(NodeJs+%7C+MSSQL)" alt=" frontend (HTML | CSS | JS | FLUTTER) backend (NodeJs | MSSQL) " />
         </a>
     </div>
     <div align="left">

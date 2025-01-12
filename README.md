@@ -56,7 +56,6 @@
     <a href="https://lesyalys.github.io/readmus.io/READ.html" target="_blank">
     <img src="https://lesyalys.github.io/readmus.io/play.jpg"/>
 </a>
-     <br>
   </div>
 </body>
 

@@ -37,9 +37,9 @@
         <br>
         </a>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=75DB73&vCenter=true&repeat=false&width=280&height=20&lines=My+educational+projects" alt=" My educational projects " /></a><br>
-      <a href="https://github.com/Lesyalys/NVGU-LOGO"> NVSU-LOGO </a><br>
-      <a href="https://github.com/Lesyalys/YouTubeFullScreen/tree/main"> YouTubeFullScreen </a><br>
-      <a href="https://github.com/Lesyalys/RefreshZapret"> RefreshZapret </a><br>
+      <a href="https://github.com/Lesyalys/NVGU-LOGO"> The logo of the Faculty of Information Technology </a><br>
+      <a href="https://github.com/Lesyalys/YouTubeFullScreen/tree/main"> Full screen size for YouTube </a><br>
+      <a href="https://github.com/Lesyalys/RefreshZapret"> Rebooting "Zapret" </a><br>
     </div>
     
   </div>

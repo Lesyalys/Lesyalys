@@ -57,7 +57,7 @@
    <div align="center">
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=9370DB&center=true&vCenter=true&repeat=false&width=600&lines=Vibe" alt="vibe" /></a><br>
     <a href="https://vk.com/icrybabyi" target="_blank">
-    <img src="https://img.icons8.com/color/48/vk-com.png" border-radius: 8px;width="100" height="100" />
+    <img width="96" height="96" src="https://img.icons8.com/color/96/vk-com.png" alt="vk-com" />
 </a>
   </div>
 </body>

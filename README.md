@@ -46,10 +46,10 @@
       <h1 align ="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=9370DB&center=true&vCenter=true&repeat=false&width=600&lines=Links" alt="Links" /></a>
     </h1>
       <a href="https://vk.com/icrybabyi" target="_blank">
-    <img width="96" height="96" src="https://github.com/Lesyalys/readmus.io/blob/main/vk.png" style="border-radius:50">
+    <img width="50" height="50" src="https://github.com/Lesyalys/readmus.io/blob/main/vk.png" style="border-radius:50" alt = "VK">
       </a>
         <a href="https://www.codewars.com/users/Lesssya" target="_blank">
-    <img width="96" height="96" src="https://github.com/Lesyalys/readmus.io/blob/main/codewars.png" style="border-radius:50">
+    <img width="50" height="50" src="https://github.com/Lesyalys/readmus.io/blob/main/codewars.png" style="border-radius:50" alt = "codewars">
       </a>
       </div>
     </div>

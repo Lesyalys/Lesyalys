@@ -46,7 +46,7 @@
       <h1 align ="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=9370DB&center=true&vCenter=true&repeat=false&width=600&lines=Connection" alt="Connection" /></a>
     </h1>
       <a href="https://vk.com/icrybabyi" target="_blank">
-    <img style="border-radius:50" width="96" height="96" src="https://github.com/Lesyalys/readmus.io/blob/main/VK.jpg" />
+    <img width="96" height="96" src="https://github.com/Lesyalys/readmus.io/blob/main/VK.jpg" style="border-radius:50%">
       </a>
       </div>
     </div>

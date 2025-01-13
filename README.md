@@ -37,11 +37,11 @@
         <br>
         </a>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=75DB73&vCenter=true&repeat=false&width=280&height=20&lines=My+educational+projects" alt=" My educational projects " /></a><br>
-      <ol>
-      <li><a href="https://github.com/Lesyalys/NVGU-LOGO"> The logo of the Faculty of Information Technology </a></li>
-      <li><a href="https://github.com/Lesyalys/YouTubeFullScreen/tree/main"> Full screen size for YouTube </a></li>
-      <li><a href="https://github.com/Lesyalys/RefreshZapret"> Rebooting "Zapret" </a></li>
-      </ol>
+      <ul>
+        <li><a href="https://github.com/Lesyalys/NVGU-LOGO"> The logo of the Faculty of Information Technology </a></li>
+        <li><a href="https://github.com/Lesyalys/YouTubeFullScreen/tree/main"> Full screen size for YouTube </a></li>
+        <li><a href="https://github.com/Lesyalys/RefreshZapret"> Rebooting "Zapret" </a></li>
+      </ul>
     </div>
     
   </div>

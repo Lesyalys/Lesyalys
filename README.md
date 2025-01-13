@@ -8,7 +8,7 @@
   <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&color=9370DB&center=true&vCenter=true&repeat=false&width=500&height=30&lines=Hello%2Cworld!" alt="Hello,world!" /></a>
   </h1>
 
-  <div align="center"><img src = "https://github.com/user-attachments/assets/ae012678-354e-4495-9af8-859b19e757bd">
+  <div align="center"><img width="80" height="80" src = "https://github.com/user-attachments/assets/ae012678-354e-4495-9af8-859b19e757bd">
   </div>
   
   <div>

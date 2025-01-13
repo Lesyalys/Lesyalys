@@ -42,6 +42,10 @@
         <li><a href="https://github.com/Lesyalys/YouTubeFullScreen/tree/main"> Full screen size for YouTube </a></li>
         <li><a href="https://github.com/Lesyalys/RefreshZapret"> Rebooting "Zapret" </a></li>
       </ul>
+      <h1 align ="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=9370DB&center=true&vCenter=true&repeat=false&width=600&lines=Connection" alt="Connection" /></a>
+    </h1>
+      <a href="https://vk.com/icrybabyi" target="_blank">
+    <img width="96" height="96" src="https://github.com/Lesyalys/readmus.io/blob/main/VK.jpg" />
     </div>
     
   </div>
@@ -53,12 +57,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lesyalys&theme=tokyonight">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lesyalys&theme=tokyonight">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lesyalys&theme=tokyonight&utcOffset=8">
-  </div>
-   <div align="center">
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=9370DB&center=true&vCenter=true&repeat=false&width=600&lines=Connection" alt="Connection" /></a><br>
-    <a href="https://vk.com/icrybabyi" target="_blank">
-    <img width="96" height="96" src="https://github.com/Lesyalys/readmus.io/blob/main/VK.jpg" />
-</a>
   </div>
 </body>
 

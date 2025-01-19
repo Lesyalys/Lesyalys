@@ -53,8 +53,6 @@
       </a>
       </div>
     </div>
-    <br>
-    
   </div>
   
   <div align="center">

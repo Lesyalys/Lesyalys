@@ -63,7 +63,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lesyalys&theme=tokyonight">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lesyalys&theme=tokyonight&utcOffset=8">
   </div>
-  <br>
 </body>
 
 </html>

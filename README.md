@@ -47,7 +47,7 @@
     <img height="100" src="https://github.com/user-attachments/assets/9f6e9386-fa8e-4cc6-8336-81bffc6e93b2" alt = "VK">
       </a>
         <a href="https://www.codewars.com/users/Lesssya" target="_blank">
-    <img height="100" src="https://github.com/user-attachments/assets/311443ce-3a85-447f-a9f5-fc44a88250dc" alt = "codewars">
+    <img height="80" src="https://github.com/user-attachments/assets/311443ce-3a85-447f-a9f5-fc44a88250dc" alt = "codewars">
       </a>
       </div>
     </div>

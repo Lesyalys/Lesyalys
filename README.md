@@ -36,9 +36,9 @@
         </a>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=DBD1C7&vCenter=true&repeat=false&width=280&height=20&lines=My+educational+projects" alt=" My educational projects " /></a><br>
       <ul>
-        <li><a color = "#FCD049" href="https://github.com/Lesyalys/NVGU-LOGO"> The logo of the Faculty of Information Technology </a></li>
-        <li><a href="https://github.com/Lesyalys/YouTubeFullScreen/tree/main"> Full screen size for YouTube </a></li>
-        <li><a href="https://github.com/Lesyalys/RefreshZapret"> Rebooting "Zapret" </a></li>
+        <li><a color = "#FCD049" text-decoration = "none" href="https://github.com/Lesyalys/NVGU-LOGO"> The logo of the Faculty of Information Technology </a></li>
+        <li><a color = "#FCD049" text-decoration = "none"  href="https://github.com/Lesyalys/YouTubeFullScreen/tree/main"> Full screen size for YouTube </a></li>
+        <li><a color = "#FCD049" text-decoration = "none" href="https://github.com/Lesyalys/RefreshZapret"> Rebooting "Zapret" </a></li>
       </ul>
       <div align = "center">
       <h1 align ="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FCD049&center=true&vCenter=true&repeat=false&width=600&lines=Links" alt="Links" /></a>

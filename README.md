@@ -21,7 +21,7 @@
         </a>
     </div>
     <div align="left">
-      <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/cloud-telegram.gif" alt="☁️"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&color=FCD049&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=HOBBY" alt=" HOBBY "/></a>
+      <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/sparkles-telegram.gif" alt="☁✨"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&color=FCD049&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=HOBBY" alt=" HOBBY "/></a>
       <br>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=DBD1C7&vCenter=true&repeat=false&width=150&height=20&lines=3D%2F2D+design" alt=" 3D/2D design " /></a>
       <a href ="https://www.artstation.com/lesssya4"> Artstation </a>
@@ -30,7 +30,7 @@
       <a href ="https://steamcommunity.com/profiles/76561198844137875/"> Steam </a>
     </div>
     <div align="left">
-      <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/cloud-telegram.gif" alt="☁️"> 
+      <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/sparkles-telegram.gif" alt="☁✨"> 
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=FCD049&size=30&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=STUDY" alt=" STUDY " />
         <br>
         </a>

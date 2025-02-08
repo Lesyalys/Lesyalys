@@ -58,11 +58,11 @@
   
   <div align="center">
     <img src = "https://github.com/user-attachments/assets/bd7b0e82-198c-4ab6-b7ca-800fd7169fb9">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lesyalys&theme=gruvbox">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lesyalys&theme=gruvbox">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lesyalys&theme=gruvbox">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lesyalys&theme=gruvbox">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lesyalys&theme=tgruvbox&utcOffset=8">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lesyalys&theme=slateorange">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lesyalys&theme=slateorange">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lesyalys&theme=slateorange">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lesyalys&theme=slateorange">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lesyalys&theme=slateorange&utcOffset=8">
   </div>
 <br>
 </body>

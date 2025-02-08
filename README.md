@@ -5,10 +5,10 @@
 </head>
   
 <body>
-  <h1 align="center"><div align="center"><img width="350" src = "https://github.com/user-attachments/assets/3963e957-1132-4654-b560-b2fdfdbac839">
+  <h1 align="center"><div align="center"><img width="350" src = "https://github.com/user-attachments/assets/b8398068-21d3-4b6d-99ee-c35e4abb72fa">
   </div></a>
   </h1>
-  
+
   <div>
     <h1 align ="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=9370DB&center=true&vCenter=true&repeat=false&width=600&lines=A+little+about+me" alt="A little about me" /></a>
     </h1>

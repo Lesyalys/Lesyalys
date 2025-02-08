@@ -52,7 +52,8 @@
       </div>
     </div>
   </div>
-  <h1 align="center"></a>
+  <h1 align="center"></a></h1>
+  <h1 align ="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FCD049&center=true&vCenter=true&repeat=false&width=600&lines=Activity" alt="Activity" /></a>
     </h1>
   
   <div align="center">

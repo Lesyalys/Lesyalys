@@ -10,31 +10,28 @@
   </h1>
 
   <div>
-    <h1 align ="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FCD049&center=true&vCenter=true&repeat=false&width=600&lines=A+little+about+me" alt="A little about me" /></a>
+    <h1 align ="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FCD049&center=true&vCenter=true&repeat=false&width=600&lines=A+little+about+me" alt="A little about me" />
     </h1>
     <div align="left">
       <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/sparkles-telegram.gif" alt="✨">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=FCD049&size=30&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=JUNIOR" alt=" JUNIOR " />
           <br>
-        </a>
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=DBD1C7&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=frontend+(HTML+%7C+CSS+%7C+JS+%7C+FLUTTER);backend+(NodeJs+%7C+MSSQL)" alt=" frontend (HTML | CSS | JS | FLUTTER) backend (NodeJs | MSSQL) " />
-        </a>
     </div>
     <div align="left">
-      <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/sparkles-telegram.gif" alt="☁✨"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&color=FCD049&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=HOBBY" alt=" HOBBY "/></a>
+      <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/sparkles-telegram.gif" alt="☁✨"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&color=FCD049&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=HOBBY" alt=" HOBBY "/>
       <br>
      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=DBD1C7&vCenter=true&repeat=false&width=150&height=20&lines=3D%2F2D+design" alt=" 3D/2D design " />
       <a color = "#FCD049" href ="https://www.artstation.com/lesssya4"> Artstation </a>
       <br>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=DBD1C7&vCenter=true&repeat=false&width=150&height=20&lines=Games" alt=" Games " /></a>
-      <a color = "#FCD049" href ="https://steamcommunity.com/profiles/76561198844137875/"> Steam 
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=DBD1C7&vCenter=true&repeat=false&width=150&height=20&lines=Games" alt=" Games " />
+      <a color = "#FCD049" href ="https://steamcommunity.com/profiles/76561198844137875/"> Steam </a>
     </div>
     <div align="left">
       <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/sparkles-telegram.gif" alt="☁✨"> 
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=FCD049&size=30&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=STUDY" alt=" STUDY " />
         <br>
-        </a>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=DBD1C7&vCenter=true&repeat=false&width=280&height=20&lines=My+educational+projects" alt=" My educational projects " /></a><br>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=DBD1C7&vCenter=true&repeat=false&width=280&height=20&lines=My+educational+projects" alt=" My educational projects " /><br>
       <ul>
         <li><a color = "#FCD049" href="https://github.com/Lesyalys/NVGU-LOGO"> The logo of the Faculty of Information Technology </a></li>
         <li><a color = "#FCD049" href="https://github.com/Lesyalys/YouTubeFullScreen/tree/main"> Full screen size for YouTube </a></li>
@@ -52,8 +49,8 @@
       </div>
     </div>
   </div>
-  <h1 align="center"></a></h1>
-  <h1 align ="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FCD049&center=true&vCenter=true&repeat=false&width=600&lines=Activity" alt="Activity" /></a>
+  <h1 align="center"></h1>
+  <h1 align ="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FCD049&center=true&vCenter=true&repeat=false&width=600&lines=Activity" alt="Activity" />
     </h1>
   
   <div align="center">

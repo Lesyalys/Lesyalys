@@ -13,7 +13,8 @@
           <br>
       <div>
         <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=DBD1C7&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=frontend+" alt=" frontend"/>
-        <img align = "left" height="60px" src = "https://github.com/user-attachments/assets/9cd9c919-5abc-4d1a-a988-0b445f155716">
+        <img height="60px" src = "https://github.com/user-attachments/assets/9cd9c919-5abc-4d1a-a988-0b445f155716">
+        <img height="60px" src = "https://github.com/user-attachments/assets/8bc72044-0134-4974-a0bc-2b72c116843d">
       </div>
     </div>
     <div align="left">
@@ -63,7 +64,6 @@
   </div>
 <br>
 
-![image](https://github.com/user-attachments/assets/9cd9c919-5abc-4d1a-a988-0b445f155716)
 
 </body>
 

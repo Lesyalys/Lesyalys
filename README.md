@@ -47,7 +47,6 @@
 <h1 align="center"><div align="center"><img width="1000" haight = "400" src = "https://github.com/user-attachments/assets/b8398068-21d3-4b6d-99ee-c35e4abb72fa">
   </div></a>
   </h1>
-  <h1 align="center"></h1>
   <h1 align ="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FCD049&center=true&vCenter=true&repeat=false&width=600&lines=Activity" alt="Activity" />
     </h1>
   

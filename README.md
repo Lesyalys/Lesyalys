@@ -11,7 +11,8 @@
       <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/sparkles-telegram.gif" alt="✨">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=FCD049&size=30&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=JUNIOR" alt=" JUNIOR " />
           <br>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=DBD1C7&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=frontend+(HTML+%7C+CSS+%7C+JS+%7C+FLUTTER);backend+(NodeJs+%7C+MSSQL)" alt=" frontend (HTML | CSS | JS | FLUTTER) backend (NodeJs | MSSQL) " />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=DBD1C7&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=frontend+(" alt=" frontend ("/>
+      <img src = "https://github.com/user-attachments/assets/9cd9c919-5abc-4d1a-a988-0b445f155716">
     </div>
     <div align="left">
       <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/sparkles-telegram.gif" alt="✨"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&color=FCD049&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=HOBBY" alt=" HOBBY "/>
@@ -59,6 +60,9 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lesyalys&theme=gruvbox&utcOffset=8">
   </div>
 <br>
+
+![image](https://github.com/user-attachments/assets/9cd9c919-5abc-4d1a-a988-0b445f155716)
+
 </body>
 
 

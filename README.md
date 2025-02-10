@@ -28,9 +28,9 @@
         <br>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=DBD1C7&vCenter=true&repeat=false&width=280&height=20&lines=My+educational+projects" alt=" My educational projects " /><br>
 <ul>
-    <li><a href="https://github.com/Lesyalys/NVGU-LOGO" style="color: #FCD049"> The logo of the Faculty of Information Technology </a></li>
-    <li><a href="https://github.com/Lesyalys/YouTubeFullScreen/tree/main" style="color: #FCD049"> Full screen size for YouTube </a></li>
-    <li><a href="https://github.com/Lesyalys/RefreshZapret" style="color: #FCD049"> Rebooting "Zapret" </a></li>
+    <li><a color = "#FCD049" href="https://github.com/Lesyalys/NVGU-LOGO"> The logo of the Faculty of Information Technology </a></li>
+    <li><a color = "#FCD049" href="https://github.com/Lesyalys/YouTubeFullScreen/tree/main" > Full screen size for YouTube </a></li>
+    <li><a color = "#FCD049" href="https://github.com/Lesyalys/RefreshZapret"> Rebooting "Zapret" </a></li>
 </ul>
       <div align = "center">
       <h1 align ="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FCD049&center=true&vCenter=true&repeat=false&width=600&lines=Links" alt="Links" />

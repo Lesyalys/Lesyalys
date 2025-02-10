@@ -7,8 +7,6 @@
 <body>
 
   <div>
-    <h1 align ="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FCD049&center=true&vCenter=true&repeat=false&width=600&lines=A+little+about+me" alt="A little about me" />
-    </h1>
     <div align="left">
       <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/sparkles-telegram.gif" alt="✨">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=FCD049&size=30&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=JUNIOR" alt=" JUNIOR " />

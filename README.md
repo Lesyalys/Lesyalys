@@ -14,10 +14,10 @@
       <div>
         <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=DBD1C7&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=frontend+" alt=" frontend"/>
           <div>
-          <img height="60px" src = "https://github.com/user-attachments/assets/9cd9c919-5abc-4d1a-a988-0b445f155716">
-          <img height="60px" src = "https://github.com/user-attachments/assets/8bc72044-0134-4974-a0bc-2b72c116843d">
-          <img height="60px" src = "https://github.com/user-attachments/assets/74b2cc1b-7904-4000-ad86-4fd1ab4777e8">
-          <img height="60px" src = "https://github.com/user-attachments/assets/13882a86-460a-4e60-a29e-b9cc05f1b78f">
+            <img height="60px" src = "https://github.com/user-attachments/assets/9cd9c919-5abc-4d1a-a988-0b445f155716">
+            <img height="60px" src = "https://github.com/user-attachments/assets/8bc72044-0134-4974-a0bc-2b72c116843d">
+            <img height="60px" src = "https://github.com/user-attachments/assets/74b2cc1b-7904-4000-ad86-4fd1ab4777e8">
+            <img height="60px" src = "https://github.com/user-attachments/assets/13882a86-460a-4e60-a29e-b9cc05f1b78f">
           </div>
       </div>
     </div>

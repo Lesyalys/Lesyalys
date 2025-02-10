@@ -11,9 +11,9 @@
       <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/sparkles-telegram.gif" alt="✨">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=FCD049&size=30&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=JUNIOR" alt=" JUNIOR " />
           <br>
-      <div>
-        <img align = "left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=DBD1C7&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=frontend+(" alt=" frontend ("/>
-      <img align = "left" height="60px" src = "https://github.com/user-attachments/assets/9cd9c919-5abc-4d1a-a988-0b445f155716">
+      <div align = "left">
+        <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=DBD1C7&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=frontend+(" alt=" frontend ("/>
+      <img height="60px" src = "https://github.com/user-attachments/assets/9cd9c919-5abc-4d1a-a988-0b445f155716">
       </div>
     </div>
     <div align="left">

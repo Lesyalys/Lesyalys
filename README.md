@@ -12,14 +12,14 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=FCD049&size=30&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=JUNIOR" alt=" JUNIOR " />
           <br>
       <div>
-        <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=DBD1C7&vCenter=true&multiline=true&repeat=false&width=600&height=30&lines=frontend" alt=" frontend"/>
+        <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=493400&vCenter=true&multiline=true&repeat=false&width=600&height=30&lines=frontend" alt=" frontend"/>
           <div>
             <img height="60px" src = "https://github.com/user-attachments/assets/9cd9c919-5abc-4d1a-a988-0b445f155716" alt = "HTML">
             <img height="60px" src = "https://github.com/user-attachments/assets/8bc72044-0134-4974-a0bc-2b72c116843d" alt = "CSS">
             <img height="60px" src = "https://github.com/user-attachments/assets/74b2cc1b-7904-4000-ad86-4fd1ab4777e8" alt = "JS">
             <img height="60px" src = "https://github.com/user-attachments/assets/13882a86-460a-4e60-a29e-b9cc05f1b78f" alt = "FLUTTER">
           </div>
-        <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=DBD1C7&vCenter=true&multiline=true&repeat=false&width=600&height=30&lines=backend" alt=" backend"/>
+        <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=493400&vCenter=true&multiline=true&repeat=false&width=600&height=30&lines=backend" alt=" backend"/>
           <div>
             <img height="60px" src = "https://github.com/user-attachments/assets/5c6b0e2b-d507-43d0-b01b-d0850b0aec43" alt = "nodeJs">
             <img height="60px" src = "https://github.com/user-attachments/assets/4e32caba-ddcf-4896-9d23-33000a2876a7" alt = "MSSQL">
@@ -29,17 +29,17 @@
     <div align="left">
       <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/sparkles-telegram.gif" alt="✨"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&color=FCD049&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=HOBBY" alt=" HOBBY "/>
       <br>
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=DBD1C7&vCenter=true&repeat=false&width=150&height=20&lines=3D%2F2D+design" alt=" 3D/2D design " />
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=493400&vCenter=true&repeat=false&width=150&height=20&lines=3D%2F2D+design" alt=" 3D/2D design " />
       <a color = "#FCD049" href ="https://www.artstation.com/lesssya4"> Artstation </a>
       <br>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=DBD1C7&vCenter=true&repeat=false&width=150&height=20&lines=Games" alt=" Games " />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=493400&vCenter=true&repeat=false&width=150&height=20&lines=Games" alt=" Games " />
       <a color = "#FCD049" href ="https://steamcommunity.com/profiles/76561198844137875/"> Steam </a>
     </div>
     <div align="left">
       <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/sparkles-telegram.gif" alt="✨"> 
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=FCD049&size=30&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=STUDY" alt=" STUDY " />
         <br>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=DBD1C7&vCenter=true&repeat=false&width=280&height=20&lines=My+educational+projects" alt=" My educational projects " /><br>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=493400&vCenter=true&repeat=false&width=280&height=20&lines=My+educational+projects" alt=" My educational projects " /><br>
 <ul>
     <li><a color = "#FCD049" href="https://github.com/Lesyalys/NVGU-LOGO"> The logo of the Faculty of Information Technology </a></li>
     <li><a color = "#FCD049" href="https://github.com/Lesyalys/YouTubeFullScreen/tree/main" > Full screen size for YouTube </a></li>

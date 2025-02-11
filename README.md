@@ -52,7 +52,7 @@
     <img height="150" src="https://github.com/user-attachments/assets/2c7eb515-9830-4b5d-bd52-5b4fc1dbb77e" alt = "VK">
       </a>
         <a color = "#FCD049" href="https://www.codewars.com/users/Lesssya" target="_blank">
-    <img height="120" src="https://github.com/user-attachments/assets/311443ce-3a85-447f-a9f5-fc44a88250dc" alt = "codewars">
+    <img height="150" src="https://github.com/user-attachments/assets/97e9725a-0eaa-40f8-adb4-e30766ef32d3" alt = "codewars">
       </a>
       </div>
     </div>

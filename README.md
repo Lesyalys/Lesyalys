@@ -41,17 +41,17 @@
         <br>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=F5DD8C&vCenter=true&repeat=false&width=280&height=20&lines=My+educational+projects" alt=" My educational projects " /><br>
 <ul>
-    <li><a color = "#FCD049" href="https://github.com/Lesyalys/NVGU-LOGO"> The logo of the Faculty of Information Technology </a></li>
-    <li><a color = "#FCD049" href="https://github.com/Lesyalys/YouTubeFullScreen/tree/main" > Full screen size for YouTube </a></li>
-    <li><a color = "#FCD049" href="https://github.com/Lesyalys/RefreshZapret"> Rebooting "Zapret" </a></li>
+    <li><a  href="https://github.com/Lesyalys/NVGU-LOGO"> The logo of the Faculty of Information Technology </a></li>
+    <li><a  href="https://github.com/Lesyalys/YouTubeFullScreen/tree/main" > Full screen size for YouTube </a></li>
+    <li><a  href="https://github.com/Lesyalys/RefreshZapret"> Rebooting "Zapret" </a></li>
 </ul>
       <div align = "center">
       <h1 align ="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FCD049&center=true&vCenter=true&repeat=false&width=600&lines=Links" alt="Links" />
     </h1>
-      <a color = "#FCD049" href="https://vk.com/icrybabyi" target="_blank">
+      <a href="https://vk.com/icrybabyi" target="_blank">
     <img height="150" src="https://github.com/user-attachments/assets/2c7eb515-9830-4b5d-bd52-5b4fc1dbb77e" alt = "VK">
       </a>
-        <a color = "#FCD049" href="https://www.codewars.com/users/Lesssya" target="_blank">
+        <a href="https://www.codewars.com/users/Lesssya" target="_blank">
     <img height="123" src="https://github.com/user-attachments/assets/97e9725a-0eaa-40f8-adb4-e30766ef32d3" alt = "codewars">
       </a>
       </div>

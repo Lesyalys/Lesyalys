@@ -9,7 +9,7 @@
   <div>
     <div align="left">
       <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/sparkles-telegram.gif" alt="✨">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=CF970B&size=30&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=JUNIOR" alt=" JUNIOR " />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=FCD049&size=30&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=JUNIOR" alt=" JUNIOR " />
           <br>
       <div>
         <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=F5DD8C&vCenter=true&multiline=true&repeat=false&width=600&height=30&lines=frontend" alt=" frontend"/>
@@ -27,7 +27,7 @@
       </div>
     </div>
     <div align="left">
-      <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/sparkles-telegram.gif" alt="✨"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&color=CF970B&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=HOBBY" alt=" HOBBY "/>
+      <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/sparkles-telegram.gif" alt="✨"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&color=FCD049&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=HOBBY" alt=" HOBBY "/>
       <br>
      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=F5DD8C&vCenter=true&repeat=false&width=150&height=20&lines=3D%2F2D+design" alt=" 3D/2D design " />
       <a href ="https://www.artstation.com/lesssya4"> Artstation </a>
@@ -37,7 +37,7 @@
     </div>
     <div align="left">
       <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/sparkles-telegram.gif" alt="✨"> 
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=CF970B&size=30&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=STUDY" alt=" STUDY " />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=FCD049&size=30&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=STUDY" alt=" STUDY " />
         <br>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=F5DD8C&vCenter=true&repeat=false&width=280&height=20&lines=My+educational+projects" alt=" My educational projects " /><br>
 <ul>
@@ -46,7 +46,7 @@
     <li><a  href="https://github.com/Lesyalys/RefreshZapret"> Rebooting "Zapret" </a></li>
 </ul>
       <div align = "center">
-      <h1 align ="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=CF970B&center=true&vCenter=true&repeat=false&width=600&lines=Links" alt="Links" />
+      <h1 align ="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FCD049&center=true&vCenter=true&repeat=false&width=600&lines=Links" alt="Links" />
     </h1>
       <a href="https://vk.com/icrybabyi" target="_blank">
     <img height="150" src="https://github.com/user-attachments/assets/2c7eb515-9830-4b5d-bd52-5b4fc1dbb77e" alt = "VK">
@@ -60,7 +60,7 @@
 <h1 align="center"><div align="center"><img width="1000" haight = "400" src = "https://github.com/user-attachments/assets/b8398068-21d3-4b6d-99ee-c35e4abb72fa">
   </div></a>
   </h1>
-  <h1 align ="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=CF970B&center=true&vCenter=true&repeat=false&width=600&lines=Activity" alt="Activity" />
+  <h1 align ="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FCD049&center=true&vCenter=true&repeat=false&width=600&lines=Activity" alt="Activity" />
     </h1>
   
   <div align="center">

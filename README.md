@@ -50,7 +50,7 @@
         <li><a  href="https://lesyalys.github.io/novella.io/">Visual novel on flutter</a><br>
         <a href="https://github.com/vachtung-gigabidze"><img height="80" src ="https://github.com/user-attachments/assets/e89a1fb8-8b76-48a8-9faf-65bf76b7e824"></a>
         <a href="https://github.com/Lesyalys"><img height="80" src ="https://github.com/user-attachments/assets/c6010df2-7e30-47af-9bce-65ccdb9da4f8"></a>
-        <p>Devloper          Game disigner</p></li>
+        <p>Devloper | Game disigner</p></li>
     </ul>
 <ul>
       <div align = "center">

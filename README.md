@@ -48,7 +48,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=CF970B&vCenter=true&repeat=false&width=280&height=20&lines=Joint+projects" alt=" Joint projects" /><br>
       <ul>
         <li><a  href="https://lesyalys.github.io/novella.io/">Visual novel on flutter</a><br>
-        <img height="50" src ="https://github.com/user-attachments/assets/e89a1fb8-8b76-48a8-9faf-65bf76b7e824" href = "https://github.com/vachtung-gigabidze"><br>
+        <a href="https://github.com/vachtung-gigabidze"><img height="50" src ="https://github.com/user-attachments/assets/e89a1fb8-8b76-48a8-9faf-65bf76b7e824"></a>
         <p>Devloper</p></li>
     </ul>
 <ul>

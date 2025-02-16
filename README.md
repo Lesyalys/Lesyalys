@@ -45,9 +45,9 @@
     <li><a  href="https://github.com/Lesyalys/YouTubeFullScreen/tree/main" > Full screen size for YouTube </a></li>
     <li><a  href="https://github.com/Lesyalys/RefreshZapret"> Rebooting "Zapret" </a></li>
 </ul>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=CF970B&vCenter=true&repeat=false&width=280&height=20&lines=Joint+projects" alt=" joint projects" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=CF970B&vCenter=true&repeat=false&width=280&height=20&lines=Joint+projects" alt=" Joint projects" /><br>
       <ul>
-        <li><a  href="https://lesyalys.github.io/novella.io/">visual novel</a></li>
+        <li><a  href="https://lesyalys.github.io/novella.io/">visual novel on flutter</a></li>
     </ul>
 <ul>
       <div align = "center">

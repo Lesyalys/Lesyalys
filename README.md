@@ -47,7 +47,7 @@
 </ul>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=CF970B&vCenter=true&repeat=false&width=280&height=20&lines=Joint+projects" alt=" joint projects" /><br>
       <ul>
-        <li><a  href="https://github.com/Lesyalys/NVGU-LOGO">visual novel</a></li>
+        <li><a  href="https://lesyalys.github.io/novella.io/">visual novel</a></li>
     </ul>
 <ul>
       <div align = "center">

@@ -50,7 +50,8 @@
         <li><a  href="https://lesyalys.github.io/novella.io/">Visual novel on flutter</a><br>
         <a href="https://github.com/vachtung-gigabidze"><img height="80" src ="https://github.com/user-attachments/assets/e89a1fb8-8b76-48a8-9faf-65bf76b7e824"></a>
         <a href="https://github.com/Lesyalys"><img height="80" src ="https://github.com/user-attachments/assets/c6010df2-7e30-47af-9bce-65ccdb9da4f8"></a>
-        <p>Devloper | Game disigner</p></li>
+          <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=CF970B&vCenter=true&multiline=true&repeat=false&width=600&height=30&lines=Devloper" alt=" Devloper"/>
+          <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=CF970B&vCenter=true&multiline=true&repeat=false&width=600&height=30&lines=Game disigner" alt=" Game disigner"/></li>
     </ul>
 <ul>
       <div align = "center">

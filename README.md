@@ -49,7 +49,7 @@
       <ul>
         <li><a  href="https://lesyalys.github.io/novella.io/">Visual novel web ver.</a><br>
           <li><a  href="https://t.me/myLittleStory_bot/myLittleStory">Visual novel telegram ver.</a><br>
-        <a href="https://github.com/vachtung-gigabidze"><img height="80" src ="https://github.com/user-attachments/assets/e89a1fb8-8b76-48a8-9faf-65bf76b7e824"></a>
+        <a href="https://github.com/vachtung-gigabidze"><img height="80" src ="https://github.com/user-attachments/assets/c9bc5bb2-4966-486d-ba61-ec22005fee8b"></a>
         <a href="https://github.com/Lesyalys"><img height="80" src ="https://github.com/user-attachments/assets/c6010df2-7e30-47af-9bce-65ccdb9da4f8"><br></a></li>
     </ul>
 <ul>

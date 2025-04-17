@@ -39,7 +39,7 @@
 <div align="center">  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30" /></a>  
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/blender-%2331A8FF.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender" height="30" /></a>  
-<a href="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="30" /></a>  
+<a href="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=photoshop&logoColor=white" alt="photoshop" height="30" /></a>  
 </div>
 
 </td></tr></table>  

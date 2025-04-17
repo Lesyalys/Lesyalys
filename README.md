@@ -35,7 +35,7 @@
 
 
 
-### DevOps  
+### Design  
 <div align="center">  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30" /></a>  
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/blender-%2331A8FF.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender" height="30" /></a>  

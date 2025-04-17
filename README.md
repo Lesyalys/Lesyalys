@@ -49,9 +49,6 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Lesyalys" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://codepen.com/Lesyalys" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
@@ -62,7 +59,6 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lesyalys&show_icons=true&count_private=true&hide_border=true" align="center" />
   <div align="center">
       <img src = "https://github.com/user-attachments/assets/bd7b0e82-198c-4ab6-b7ca-800fd7169fb9">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lesyalys&theme=gruvbox">
@@ -70,8 +66,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lesyalys&theme=gruvbox">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lesyalys&theme=gruvbox">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lesyalys&theme=gruvbox&utcOffset=8">
-    </div>
-</div>  
+    </div> 
 
 <br/>  
 

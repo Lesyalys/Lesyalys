@@ -1,87 +1,96 @@
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>  
   
-<body>
 
-  <div>
-    <div align="left">
-      <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/sparkles-telegram.gif" alt="✨">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=FCD049&size=30&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=JUNIOR" alt=" JUNIOR " />
-          <br>
-      <div>
-        <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=CF970B&vCenter=true&multiline=true&repeat=false&width=600&height=30&lines=frontend" alt=" frontend"/>
-          <div>
-            <img height="60px" src = "https://github.com/user-attachments/assets/9cd9c919-5abc-4d1a-a988-0b445f155716" alt = "HTML">
-            <img height="60px" src = "https://github.com/user-attachments/assets/8bc72044-0134-4974-a0bc-2b72c116843d" alt = "CSS">
-            <img height="60px" src = "https://github.com/user-attachments/assets/74b2cc1b-7904-4000-ad86-4fd1ab4777e8" alt = "JS">
-            <img height="60px" src = "https://github.com/user-attachments/assets/13882a86-460a-4e60-a29e-b9cc05f1b78f" alt = "FLUTTER">
-          </div>
-        <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=CF970B&vCenter=true&multiline=true&repeat=false&width=600&height=30&lines=backend" alt=" backend"/>
-          <div>
-            <img height="60px" src = "https://github.com/user-attachments/assets/5c6b0e2b-d507-43d0-b01b-d0850b0aec43" alt = "nodeJs">
-            <img height="60px" src = "https://github.com/user-attachments/assets/4e32caba-ddcf-4896-9d23-33000a2876a7" alt = "MSSQL">
-          </div>
-      </div>
-    </div>
-    <div align="left">
-      <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/sparkles-telegram.gif" alt="✨"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&color=FCD049&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=HOBBY" alt=" HOBBY "/>
-      <br>
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=CF970B&vCenter=true&repeat=false&width=150&height=20&lines=3D%2F2D+design" alt=" 3D/2D design " />
-      <a href ="https://www.artstation.com/lesssya4"> Artstation </a>
-      <br>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=CF970B&vCenter=true&repeat=false&width=150&height=20&lines=Games" alt=" Games " />
-      <a  href ="https://steamcommunity.com/profiles/76561198844137875/"> Steam </a>
-    </div>
-    <div align="left">
-      <img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/sparkles-telegram.gif" alt="✨"> 
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=FCD049&size=30&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=STUDY" alt=" STUDY " />
-        <br>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=CF970B&vCenter=true&repeat=false&width=280&height=20&lines=My+educational+projects" alt=" My educational projects " /><br>
-<ul>
-    <li><a  href="https://github.com/Lesyalys/NVGU-LOGO"> The logo of the Faculty of Information Technology </a></li>
-    <li><a  href="https://github.com/Lesyalys/YouTubeFullScreen/tree/main" > Full screen size for YouTube </a></li>
-    <li><a  href="https://lesyalys.github.io/computerQuiz.io/" > Computer Quiz for NVSU </a></li>
-</ul>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=CF970B&vCenter=true&repeat=false&width=280&height=20&lines=Joint+projects" alt=" Joint projects" /><br>
-      <ul>
-        <li><a  href="https://lesyalys.github.io/novella.io/">Visual novel web ver.</a><br>
-          <li><a  href="https://t.me/myLittleStory_bot/myLittleStory">Visual novel telegram ver.</a><br>
-        <a href="https://github.com/vachtung-gigabidze"><img height="80" src ="https://github.com/user-attachments/assets/c9bc5bb2-4966-486d-ba61-ec22005fee8b"></a>
-        <a href="https://github.com/Lesyalys"><img height="80" src ="https://github.com/user-attachments/assets/c6010df2-7e30-47af-9bce-65ccdb9da4f8"><br></a></li>
-    </ul>
-<ul>
-      <div align = "center">
-      <h1 align ="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FCD049&center=true&vCenter=true&repeat=false&width=600&lines=Links" alt="Links" />
-    </h1>
-      <a href="https://vk.com/icrybabyi" target="_blank">
-    <img height="150" src="https://github.com/user-attachments/assets/2c7eb515-9830-4b5d-bd52-5b4fc1dbb77e" alt = "VK">
-      </a>
-        <a href="https://www.codewars.com/users/Lesssya" target="_blank">
-    <img height="123" src="https://github.com/user-attachments/assets/97e9725a-0eaa-40f8-adb4-e30766ef32d3" alt = "codewars">
-      </a>
-      </div>
-    </div>
-  </div>
-<h1 align="center"><div align="center"><img width="1000" haight = "400" src = "https://github.com/user-attachments/assets/b8398068-21d3-4b6d-99ee-c35e4abb72fa">
-  </div></a>
-  </h1>
-  <h1 align ="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FCD049&center=true&vCenter=true&repeat=false&width=600&lines=Activity" alt="Activity" />
-    </h1>
+### <div align="center">I am Lesya, a beginner frontend developer and designer</div>  
   
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Lesyalys" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/Lesyalys" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lesyalys&show_icons=true&count_private=true&hide_border=true" align="center" />
   <div align="center">
-    <img src = "https://github.com/user-attachments/assets/bd7b0e82-198c-4ab6-b7ca-800fd7169fb9">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lesyalys&theme=gruvbox">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lesyalys&theme=gruvbox">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lesyalys&theme=gruvbox">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lesyalys&theme=gruvbox">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lesyalys&theme=gruvbox&utcOffset=8">
-  </div>
-<br>
+      <img src = "https://github.com/user-attachments/assets/bd7b0e82-198c-4ab6-b7ca-800fd7169fb9">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lesyalys&theme=gruvbox">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lesyalys&theme=gruvbox">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lesyalys&theme=gruvbox">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lesyalys&theme=gruvbox">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lesyalys&theme=gruvbox&utcOffset=8">
+    </div>
+</div>  
 
-</body>
+<br/>  
 
 
-</html>
+## Recent Blog Posts  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

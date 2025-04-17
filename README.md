@@ -1,7 +1,7 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/user-attachments/assets/f22cd49f-58dc-48bc-b399-31a883f58010" align="center" style="width: 100%" />
 </div>  
-  
+
 
 ### <div align="center">I am Lesya, a beginner frontend developer and designer</div>  
   

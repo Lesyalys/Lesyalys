@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/f22cd49f-58dc-48bc-b399-31a883f58010" align="center" style="width: 5%" />
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/18-cats-mem.0rdvn3uwtipw..gif" align="center" style="width: 5%" />
 </div>  
 
 

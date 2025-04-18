@@ -16,7 +16,7 @@
 
 
 ### Frontend  
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; flex-wrap: wrap; gap: 10px;">
+<div align="center" justify-content="center" display ="flex">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/2abab487-73ea-44d0-83ac-25e09106ea98" alt="HTML5" height="30" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/f4e0591c-7337-447e-96d5-567d540b35fc" alt="CSS3" height="30" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/1343bd25-137f-4b01-9145-e1e05424025d" alt="JavaScript" height="30" /></a>  

@@ -12,11 +12,6 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-### Achievements
-<div align="center" justify-content="center" display ="flex">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" /></a>    
-</div>
-</td><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center" justify-content="center" display ="flex">  
@@ -46,7 +41,15 @@
 <a href="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=photoshop" alt="photoshop" height="30" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table> 
+
+### Achievements
+<table><tr><td valign="top" width="33%">
+<div align="center" justify-content="center" display ="flex">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" /></a>    
+</div>
+</td><td valign="top" width="33%">
+</td></tr></table>
 
 <br/>  
 

@@ -12,7 +12,7 @@
 <br/>  
 
 ## My Skill Set <img src="https://github.com/user-attachments/assets/3daf898c-9ee2-46f7-99d8-8b7fb8804ebc" style="width: 2%">
-<table align="center" width="40%" ><tr><td valign="top"  width="40%">
+<table align="center" width="100%" ><tr><td valign="top"  width="40%">
 
 
 ### Frontend  

@@ -7,7 +7,7 @@
 
 
 ### <div align="center">
-<img src ="https://github.com/user-attachments/assets/699f2149-d02e-4df8-a086-1779f23b5733" style="width: 3%">
+<img src ="https://github.com/user-attachments/assets/699f2149-d02e-4df8-a086-1779f23b5733" style="width: 3%" align="center">
   I am Lesya, a beginner frontend developer and designer
 </div>  
   

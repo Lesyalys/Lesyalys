@@ -2,7 +2,7 @@
 <img src="https://opis-cdn.tinkoffjournal.ru/mercury/18-cats-mem.0rdvn3uwtipw..gif" align="center" style="width: 25%" />
 </div> 
 <div align="center">
-  about me <img src ="https://github.com/user-attachments/assets/6021b943-c7fa-438f-b026-eb72f49c9e0b" wight = "5px">
+  about me <img src ="https://github.com/user-attachments/assets/6021b943-c7fa-438f-b026-eb72f49c9e0b" style="width: 10%">
 </div>
 
 

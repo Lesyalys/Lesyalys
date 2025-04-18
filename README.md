@@ -29,7 +29,7 @@
 
 
 ### Backend  
-<div align="center">  
+<div align="center" justify-content="center" display ="flex">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/cdf96f22-1bf8-4c74-9537-c197df9bb9bd" alt="Node.js" height="30" /></a> 
 <div align="center">  
 <a href="https://www.microsoft.com/en-ca/sql-server" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/acbd9565-09ac-4f7e-ac71-223d59f42fa4" alt="SQL Server" height="30" /></a>  

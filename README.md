@@ -20,7 +20,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="30" /></a>  
 <a href="https://vite.dev/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="vite" height="30" /></a>
-<a href="https://vite.dev/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/tailwind-%23646CFF.svg?style=for-the-badge&logo=tailwind&logoColor=white" alt="tailwind" height="30" /></a>   
+<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/tailwindcss%23646CFF.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwindcss" height="30" /></a>   
 </div>
 </td><td valign="top" width="33%">
 

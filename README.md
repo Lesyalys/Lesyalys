@@ -44,16 +44,16 @@
 </td></tr></table> 
 
 ### Achievements
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="40%">
 <div align="center" justify-content="center" display ="flex">  
 <a href ="https://lesyalys.github.io/novella.io/"><img src="https://github.com/user-attachments/assets/0a83374a-80d2-4823-a323-7f9b9f220427" alt="novella" height="80" /></a> 
 </div>
   <p>novella / designer</p>
-  </td><td valign="top" width="33%">
+  </td><td valign="top" width="40%">
   <div align="center" justify-content="center" display ="flex">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" /></a> 
 </div>
-    </td><td valign="top" width="33%">
+    </td><td valign="top" width="40%">
 </td></tr></table>
 
 <br/>  

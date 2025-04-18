@@ -6,7 +6,7 @@
 </div>
 
 
-### <div align="center">I am Lesya, a beginner frontend developer and designer
+### <div align="center"><img src="https://github.com/user-attachments/assets/03ff1227-75f1-4a07-969a-b36c7c0476df" style="width: 2%">I am Lesya, a beginner frontend developer and designer
 </div>  
 
 <br/>  

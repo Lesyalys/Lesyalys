@@ -50,7 +50,7 @@
 ## Connect with me  
 <div align="center">
 <a href="https://t.me/Shadowtav" target="_blank">
-<img src=https://img.shields.io/badge/telegram-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/telegram-%23131417.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>  
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/discord-%23E34F26.svg?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />

@@ -11,7 +11,6 @@
 
 <br/>  
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -22,7 +21,8 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/f4e0591c-7337-447e-96d5-567d540b35fc" alt="CSS3" height="30" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/1343bd25-137f-4b01-9145-e1e05424025d" alt="JavaScript" height="30" /></a>  
 <a href="https://vite.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/6a6add9e-3399-49fb-bca8-718e14aabaa8" alt="vite" height="30" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/c288615a-72ba-41f4-8141-7ad7cdf9f9c2" alt="tailwindcss" height="30" /></a>   
+<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/c288615a-72ba-41f4-8141-7ad7cdf9f9c2" alt="tailwindcss" height="30" /></a>
+<a href="https://threejs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/17f72873-79bd-487d-87c2-b15526d41c10" alt="threejs" height="30" /></a>   
 </div>
 </td><td valign="top" width="33%">
 

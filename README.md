@@ -39,9 +39,9 @@
 
 ### Design  
 <div align="center">  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/blender-%2331A8FF.svg?style=for-the-badge&logo=blender" alt="blender" height="30" /></a>  
-<a href="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=photoshop" alt="photoshop" height="30" /></a> 
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/5c4a4b5a-cb74-4f31-b0b8-19e035fd24b1" alt="Figma" height="30" /></a>  
+<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/1d19a99a-1f38-4a8b-9f9d-ccf1eb6524d1" alt="blender" height="30" /></a>  
+<a href="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/d8feaed6-341b-4d47-af06-0d18561210d9" alt="photoshop" height="30" /></a> 
 <a href="https://rive.app/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/rive-%1D1D1D.svg?style=for-the-badge&logo=rive" alt="rive" height="30" /></a> 
 </div>
 

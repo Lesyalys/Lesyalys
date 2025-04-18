@@ -12,7 +12,7 @@
 <br/>  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="40%">
 
 
 ### Frontend  
@@ -24,7 +24,7 @@
 <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/c288615a-72ba-41f4-8141-7ad7cdf9f9c2" alt="tailwindcss" height="30" /></a>
 <a href="https://threejs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/17f72873-79bd-487d-87c2-b15526d41c10" alt="threejs" height="30" /></a>   
 </div>
-</td><td valign="top" width="33%">
+</td><td valign="top" width="40%">
 
 
 

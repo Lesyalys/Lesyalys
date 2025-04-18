@@ -55,6 +55,12 @@
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/discord-%23E34F26.svg?style=for-the-badge&logo=discord alt=discord style="margin-bottom: 5px;" />
 </a> 
+</div>  
+  
+<br/>  
+
+## Educational  
+<div align="center">
 <a href="https://codepen.com/Lesyalys" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen alt=codepen style="margin-bottom: 5px;" />
 </a>  

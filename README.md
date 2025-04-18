@@ -12,7 +12,7 @@
 <br/>  
 
 ## My Skill Set <img src="https://github.com/user-attachments/assets/3daf898c-9ee2-46f7-99d8-8b7fb8804ebc" style="width: 2%">
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="33%">
 
 
 ### Frontend  
@@ -44,7 +44,7 @@
 <a href="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/d8feaed6-341b-4d47-af06-0d18561210d9" alt="photoshop" height="30" /></a> 
 <a href="https://rive.app/" target="_blank"><img style="margin: 10px" src="https://framerusercontent.com/images/3zFbB2jdDFJ02sWnh7hLRZFujk.svg" alt="rive" height="30" /></a> 
 </div>
-
+</td><td valign="top" width="33%">
 </td></tr></table> 
 
 ### Achievements

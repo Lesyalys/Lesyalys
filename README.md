@@ -53,10 +53,10 @@
 <img src=https://img.shields.io/badge/telegram-%23131417.svg?&style=for-the-badge&logo=telegram alt=telegram style="margin-bottom: 5px;" />
 </a>  
 <a href="" target="_blank">
-<img src=https://github.com/user-attachments/assets/5f0af775-4a69-46a1-986e-5f1da5d732b7 alt=discord style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/discord-%23E34F26.svg?style=for-the-badge&logo=discord alt=discord style="margin-bottom: 5px;" />
 </a> 
 </div>  
-
+  
 <br/>  
 
 ## Educational  

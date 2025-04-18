@@ -12,7 +12,7 @@
 
 <br/>  
 
-## My Skill Set <img src="https://github.com/user-attachments/assets/d72d136e-c5a0-4f09-931d-e05e3a04f7db" style="width: 3%">
+## My Skill Set <img src="https://github.com/user-attachments/assets/d72d136e-c5a0-4f09-931d-e05e3a04f7db" style="width: 1%">
 <table><tr><td valign="top" width="33%">
 
 

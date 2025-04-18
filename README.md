@@ -1,7 +1,7 @@
-<div align="center" position="relative">
+<div align="center">
 <a href = "https://lesyalys.github.io/portfolio.io/"><img src="https://opis-cdn.tinkoffjournal.ru/mercury/18-cats-mem.0rdvn3uwtipw..gif" align="center" style="width: 25%" /></a>
 </div> 
-<div align="center">
+<div align="center" position="relative">
   portfolio <img src ="https://github.com/user-attachments/assets/d22dcaad-183b-4df9-b46a-28d7eccb2d8f" style="width: 3%">
 </div>
 

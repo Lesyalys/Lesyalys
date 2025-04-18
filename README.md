@@ -56,7 +56,7 @@
 </div>
     <p>Quiz developer</p>
     </td><td valign="top" width="40%">
-
+</td></tr></table>
 <br/>
 
 

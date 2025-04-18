@@ -51,13 +51,13 @@
 <div align="center" justify-content="center" display ="flex">  
 <a href ="https://lesyalys.github.io/novella.io/"><img src="https://github.com/user-attachments/assets/0a83374a-80d2-4823-a323-7f9b9f220427" alt="novella" height="80" /></a> 
 </div>
-  <p>novella</p> <p>designer</p>
+  <p align="center" justify-content="center" display ="flex">novella</p> <p>designer</p>
   </td><td valign="top" width="40%">
     
   <div align="center" justify-content="center" display ="flex">  
 <a href="https://lesyalys.github.io/computerQuiz.io/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/7e337fca-15b2-4973-b68e-5bb3540ef674" alt="Quiz" height="80" /></a> 
 </div>
-  <p>Quiz</p> <p>developer</p>
+  <p align="center" justify-content="center" display ="flex">Quiz</p> <p>developer</p>
 </tr></table>
 <br/>
 

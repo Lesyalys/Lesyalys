@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" position="relative">
 <a href = "https://lesyalys.github.io/portfolio.io/"><img src="https://opis-cdn.tinkoffjournal.ru/mercury/18-cats-mem.0rdvn3uwtipw..gif" align="center" style="width: 25%" /></a>
 </div> 
 <div align="center">

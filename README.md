@@ -46,7 +46,6 @@
 </div>
 </td></tr></table> 
 
-###
 ### Achievements
 <table><tr><td valign="top" width="40%">
 <div align="center" justify-content="center" display ="flex">  

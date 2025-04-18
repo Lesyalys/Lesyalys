@@ -46,7 +46,7 @@
 ### Achievements
 <table><tr><td valign="top" width="33%">
 <div align="center" justify-content="center" display ="flex">  
-<a href ="https://lesyalys.github.io/novella.io/"><img src="https://github.com/user-attachments/assets/0a83374a-80d2-4823-a323-7f9b9f220427" alt="novella" height="50" /></a> 
+<a href ="https://lesyalys.github.io/novella.io/"><img src="https://github.com/user-attachments/assets/0a83374a-80d2-4823-a323-7f9b9f220427" alt="novella" height="80" /></a> 
 </div>
   <p>novella / designer</p>
   </td><td valign="top" width="33%">

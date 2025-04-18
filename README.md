@@ -51,12 +51,13 @@
   <p>novella designer</p>
   </td><td valign="top" width="40%">
   <div align="center" justify-content="center" display ="flex">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" /></a> 
+<a href="https://lesyalys.github.io/computerQuiz.io/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/7e337fca-15b2-4973-b68e-5bb3540ef674" alt="Qize" height="30" /></a> 
 </div>
     </td><td valign="top" width="40%">
 </td></tr></table>
 
-<br/>  
+<br/>
+
 
 
 ## Connect with me  

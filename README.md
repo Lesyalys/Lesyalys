@@ -16,7 +16,7 @@
 
 ### Frontend  
 <div align="center" justify-content="center" display ="flex">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5" alt="HTML5" height="30" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3" alt="CSS3" height="30" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="30" /></a>  
 <a href="https://vite.dev/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="vite" height="30" /></a>
@@ -28,7 +28,7 @@
 
 ### Backend  
 <div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js" alt="Node.js" height="30" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="30" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -37,7 +37,7 @@
 
 ### Design  
 <div align="center">  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma" alt="Figma" height="30" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30" /></a>  
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/blender-%2331A8FF.svg?style=for-the-badge&logo=blender" alt="blender" height="30" /></a>  
 <a href="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=photoshop" alt="photoshop" height="30" /></a>  
 </div>

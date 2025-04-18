@@ -6,7 +6,7 @@
 </div>
 
 
-### <div align="center"><img src="https://github.com/user-attachments/assets/03ff1227-75f1-4a07-969a-b36c7c0476df" style="width: 2%">I am Lesya, a beginner frontend developer and designer
+### <div align="center"><img src="https://github.com/user-attachments/assets/e82b6b71-ba4a-46ac-b75e-55e13f1cce7e" style="width: 2%">I am Lesya, a beginner frontend developer and designer<img src="https://github.com/user-attachments/assets/e2817776-ecf6-45e5-98f2-4f2356d66718" style="width: 2%">
 </div>  
 
 <br/>  

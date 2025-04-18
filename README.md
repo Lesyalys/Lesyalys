@@ -6,8 +6,7 @@
 </div>
 
 
-### <div align="center">
-  I am Lesya, a beginner frontend developer and designer
+### <div align="center">I am Lesya, a beginner frontend developer and designer
 </div>  
   
 

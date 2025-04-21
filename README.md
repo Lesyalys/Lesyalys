@@ -67,9 +67,6 @@
 <a href="https://t.me/Shadowtav" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%23131417.svg?&style=for-the-badge&logo=telegram alt=telegram style="margin-bottom: 5px;" />
 </a>  
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/discord-%23131417.svg?style=for-the-badge&logo=discord alt=discord style="margin-bottom: 5px;" />
-</a> 
 <a href="https://codepen.com/Lesyalys" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen alt=codepen style="margin-bottom: 5px;" />
 </a> 

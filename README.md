@@ -1,9 +1,6 @@
 <div align="center">
 <img src="https://opis-cdn.tinkoffjournal.ru/mercury/18-cats-mem.0rdvn3uwtipw..gif" align="center" style="width: 25%" />
 </div> 
-<div align="center" >
-  portfolio <img src ="https://github.com/user-attachments/assets/d22dcaad-183b-4df9-b46a-28d7eccb2d8f" style="width: 3%">
-</div>
 
 
 ### <div align="center"><img src="https://github.com/user-attachments/assets/e82b6b71-ba4a-46ac-b75e-55e13f1cce7e" style="width: 4%">I am Lesya, a beginner frontend developer and designer<img src="https://github.com/user-attachments/assets/e2817776-ecf6-45e5-98f2-4f2356d66718" style="width: 4%">

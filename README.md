@@ -51,7 +51,7 @@
   </td><td valign="top" width="40%">
     
   <div align="center" justify-content="center" display ="flex">  
-<a href="https://lesyalys.github.io/computerQuiz.io/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/7e337fca-15b2-4973-b68e-5bb3540ef674" alt="Quiz" height="80" /></a> 
+<a href="https://lesyalys.github.io/oldComputerQuiz.io/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/7e337fca-15b2-4973-b68e-5bb3540ef674" alt="Quiz" height="80" /></a> 
 </div>
   <p align="center" justify-content="center" display ="flex">Quiz</p> <p>developer</p>
 </tr></table>

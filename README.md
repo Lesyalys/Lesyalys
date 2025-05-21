@@ -5,7 +5,6 @@
 
 ### <div align="center">I am Lesya, a beginner frontend developer and designer
 </div>  
-
 <br/>  
 
 ## My Skill Set <img src="https://github.com/user-attachments/assets/3daf898c-9ee2-46f7-99d8-8b7fb8804ebc" style="width: 2%">

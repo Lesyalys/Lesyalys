@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/b0b79743-6d05-413a-bc74-cac2cb89757b" align="center" style="width: 25%" />
+<img src="https://github.com/user-attachments/assets/b0b79743-6d05-413a-bc74-cac2cb89757b" align="center" style="width: 25%">
 <a src="https://lesyalys.github.io/viteProfile/" target="_blink"></a></img>
 </div> 
 

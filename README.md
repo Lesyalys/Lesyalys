@@ -1,7 +1,8 @@
 <div align="center">
-<a src="https://lesyalys.github.io/viteProfile/" target="_blink"><img src="https://opis-cdn.tinkoffjournal.ru/mercury/18-cats-mem.0rdvn3uwtipw..gif" align="center" style="width: 25%" /></a>
+<img src="https://github.com/user-attachments/assets/b0b79743-6d05-413a-bc74-cac2cb89757b" align="center" style="width: 25%" />
+<a src="https://lesyalys.github.io/viteProfile/" target="_blink"></a></img>
 </div> 
- 
+
 
 ### <div align="center">I am Lesya, a beginner frontend developer and designer
 </div>  

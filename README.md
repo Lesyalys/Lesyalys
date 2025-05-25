@@ -1,5 +1,5 @@
 <div align="center">
-<a src="https://lesyalys.github.io/viteProfile/" target="_blink"></a><img src="https://opis-cdn.tinkoffjournal.ru/mercury/18-cats-mem.0rdvn3uwtipw..gif" align="center" style="width: 25%" />
+<a src="https://lesyalys.github.io/viteProfile/" target="_blink"><img src="https://opis-cdn.tinkoffjournal.ru/mercury/18-cats-mem.0rdvn3uwtipw..gif" align="center" style="width: 25%" /></a>
 </div> 
  
 

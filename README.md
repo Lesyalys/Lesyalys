@@ -1,4 +1,9 @@
-<a href="https://lesyalys.github.io/viteProfile/"><img src="https://github.com/user-attachments/assets/aa6764f1-4c2d-4594-a8f3-b7c1e664b104" width="150px" align="center"></a>
+<div div align="center" justify-content="center" display ="flex">
+  <a href="https://lesyalys.github.io/viteProfile/">
+    <img src="https://github.com/user-attachments/assets/aa6764f1-4c2d-4594-a8f3-b7c1e664b104" width="150px" >
+  </a>
+</div>
+
 
 ### <div align="center">I am Lesya, a beginner frontend developer and designer
 </div>  

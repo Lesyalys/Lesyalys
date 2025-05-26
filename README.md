@@ -1,12 +1,4 @@
-<div align="center">
-  <a href="https://lesyalys.github.io/viteProfile/" target="_blank">
-    <img 
-      src="https://github.com/user-attachments/assets/b0b79743-6d05-413a-bc74-cac2cb89757b" 
-      style="width: 25%"
-      alt="Описание картинки"
-    >
-  </a>
-</div>
+
 
 ### <div align="center">I am Lesya, a beginner frontend developer and designer
 </div>  

@@ -19,10 +19,10 @@
 
 <div class="flex flex-row">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lesyalys&layout=compact&theme=omni&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lesyalys&layout=compact&theme=github_dark&hide_border=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lesyalys&show_icons=true&theme=omni&hide_border=true&show_rank=false&rank_icon=github)
-![Streak-stats.demolab](https://streak-stats.demolab.com/?user=Lesyalys&theme=radical&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lesyalys&show_icons=true&theme=github_dark&hide_border=true&show_rank=false&rank_icon=github)
+![Streak-stats.demolab](https://streak-stats.demolab.com/?user=Lesyalys&theme=github_dark&hide_border=true)
 
 </div>
 

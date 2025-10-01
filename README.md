@@ -1,5 +1,7 @@
 ### 🚀 Project
-<img width="384" height="390" alt="image 7" src="https://github.com/user-attachments/assets/ee75a8d4-fec2-40ff-b079-3fee5c0ee351" />
+<a href="https://lesyalys.github.io/novella.io/">
+<img width="200" height="200" alt="novella" src="https://github.com/user-attachments/assets/ee75a8d4-fec2-40ff-b079-3fee5c0ee351" />
+</a>
 
 
 ## 🛠️ Tech Stack

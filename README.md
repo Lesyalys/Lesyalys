@@ -21,7 +21,7 @@
 | | |
 | :---: | :---: |
 | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lesyalys&layout=compact&theme=github_dark&hide_border=true)](https://github.com/Lesyalys) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lesyalys&show_icons=true&theme=github_dark&hide_border=true&show_rank=false&rank_icon=github)](https://github.com/Lesyalys) |
-| [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Lesyalys&repo=Study&theme=github_dark&hide_border=true)](https://github.com/Lesyalys/Study)<br>**Educational materials for IVT** | |
+| [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Lesyalys&repo=Study&theme=github_dark&hide_border=true)](https://github.com/Lesyalys/Study) | |
 
 </div>
 
